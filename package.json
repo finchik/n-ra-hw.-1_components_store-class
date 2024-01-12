@@ -1,5 +1,5 @@
 {
-  "name": "n-ra-hw.-1_components_store-class",
+  "name": "netology_ra16-homeworks_components_store-class",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -37,5 +37,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://finchik.github.io/n-ra-hw.-1_components_store-class"
+  "homepage": "https://a-naraikin.github.io/netology_ra16-homeworks_components_store-class"
 }

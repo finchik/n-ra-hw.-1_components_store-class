@@ -1,6 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/f2dr0asop58yfsa5?svg=true)](https://ci.appveyor.com/project/finchik/n-ra-hw-1-components-store-class)
+[![Build status](https://ci.appveyor.com/api/projects/status/2l60j0k35wk9kx22?svg=true)](https://ci.appveyor.com/project/a-naraikin/netology-ra16-homeworks-components-store-class)
 
-### [Ссылка на Github Pages](https://finchik.github.io/n-ra-hw.-1_components_store-class/)
+## [веб-сайт](https://a-naraikin.github.io/netology_ra16-homeworks_components_store-class/)
 
 ## Домашняя работа «Страница интернет-магазина (функциональный компонент)»
 
